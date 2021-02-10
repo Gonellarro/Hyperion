@@ -59,3 +59,5 @@ rm -R /storage/hyperion
 
 Fuente: https://hyperion-project.org/threads/install-hyperion-ng-on-libreelec-x86_64-rpi-inoffiziell-unofficially.10463/
 
+
+>**NOTA:** Existe la APP Hyperion en el Google Play que nos permitirá controlar la tira LED solo con darle la IP y puertos del WEMOS. MUY ÚTIL!!!!
