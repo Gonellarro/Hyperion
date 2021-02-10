@@ -44,8 +44,8 @@
 /*------------------------------------------------*/
 /*Main configuration*/
 //You can leave it empty and override it via the web interface on port 80
-#define CONFIG_WIFI_SSID "NovaWifi"
-#define CONFIG_WIFI_PASSWORD "Marti07Emma21Maria30"
+#define CONFIG_WIFI_SSID "YOUR_SSID"
+#define CONFIG_WIFI_PASSWORD "YOUR_PASS"
 
 //#define CONFIG_WIFI_STATIC_IP 1
 const byte CONFIG_WIFI_IP[] = {192, 168, 1, 11};
